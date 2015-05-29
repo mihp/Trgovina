@@ -1,0 +1,12 @@
+prva stran
+seznam kategorij
+	izdelki za posamezno kategorijo
+izdelek
+	detail view izdelka
+košarica
+	nakupno prodajni proces
+	pomoè
+
+naredi si dummy podatke
+prikazuj podatke
+API je, copy paste iz jsona da bo vsaj nekaj delalo, kasneje boš priklopil iz vira
